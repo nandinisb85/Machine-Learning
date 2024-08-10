@@ -20,7 +20,7 @@ This project involves training a Random Forest classifier on a dataset to predic
 - `pandas`
 - `numpy`
 - `scikit-learn`
-- `matplotlib` (if visualization is included)
+- `matplotlib` 
 
 ### Instructions for Use
 
